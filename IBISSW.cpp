@@ -98,13 +98,14 @@ String IBISSW::dopocetCelni(String puvodniPrikaz)
         puvodniPrikaz.replace("Ř","<0E><72>");
         puvodniPrikaz.replace("š","<0E><53>");
         puvodniPrikaz.replace("Š","<0E><73>");
-        puvodniPrikaz.replace("ť","<0E><51>");
+        puvodniPrikaz.replace("ť","<0E><54>");
         puvodniPrikaz.replace("Ť","<0E><74>");
         puvodniPrikaz.replace("ü","<0E><48>");
         puvodniPrikaz.replace("Ü","<0E><68>");
         puvodniPrikaz.replace("ú","<0E><55>");
         puvodniPrikaz.replace("ú","<0E><55>");
         puvodniPrikaz.replace("Ú","<0E><75>");
+        puvodniPrikaz.replace("ů","<0E><4A>");
         puvodniPrikaz.replace("Ů","<0E><6A>");
         puvodniPrikaz.replace("ý","<0E><59>");
         puvodniPrikaz.replace("Ý","<0E><79>");
